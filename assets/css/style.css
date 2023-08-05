@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+}
